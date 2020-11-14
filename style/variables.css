@@ -197,8 +197,8 @@ all of MD as it is not optimized for dense, information rich UIs.
    * theme these would go from light to dark.
    */
 
-  --jp-layout-color0: rgb(200, 200, 200);
-  --jp-layout-color1: rgb(200, 200, 200);
+  --jp-layout-color0: rgb(238, 238, 238);
+  --jp-layout-color1: rgb(238, 238, 238);
   --jp-layout-color2: var(--md-grey-200);
   --jp-layout-color3: var(--md-grey-400);
   --jp-layout-color4: var(--md-grey-600);

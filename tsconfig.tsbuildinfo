@@ -569,7 +569,7 @@
         "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
         "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6"
       },
-      "./node_modules/csstype/index.d.ts": {
+      "./node_modules/@types/react/node_modules/csstype/index.d.ts": {
         "version": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c",
         "signature": "c89da57b29cf0a695fe46e6ab8cd7d64edb15a6708ae2352e30d79a3936ccc5c"
       },
@@ -621,7 +621,7 @@
         "version": "d17f7a001dae13ded8536376f9319169a4c53e0e3789756e2058d0f4b4083a19",
         "signature": "d17f7a001dae13ded8536376f9319169a4c53e0e3789756e2058d0f4b4083a19"
       },
-      "./node_modules/typestyle/node_modules/csstype/index.d.ts": {
+      "./node_modules/csstype/index.d.ts": {
         "version": "f9d66b7d0c140496459807082ebe1bd8185a2d7478951881724b708e72fc7386",
         "signature": "f9d66b7d0c140496459807082ebe1bd8185a2d7478951881724b708e72fc7386"
       },
@@ -2014,7 +2014,7 @@
         "./node_modules/@lumino/widgets/types/index.d.ts"
       ],
       "./node_modules/@types/react/index.d.ts": [
-        "./node_modules/csstype/index.d.ts",
+        "./node_modules/@types/react/node_modules/csstype/index.d.ts",
         "./node_modules/@types/prop-types/index.d.ts",
         "./node_modules/@types/react/global.d.ts"
       ],
@@ -2054,7 +2054,7 @@
         "./node_modules/@jupyterlab/ui-components/lib/icon/widgets/tabbarsvg.d.ts"
       ],
       "./node_modules/typestyle/lib/types.d.ts": [
-        "./node_modules/typestyle/node_modules/csstype/index.d.ts"
+        "./node_modules/csstype/index.d.ts"
       ],
       "./node_modules/@jupyterlab/ui-components/lib/style/icon.d.ts": [
         "./node_modules/typestyle/lib/types.d.ts"
@@ -3957,7 +3957,7 @@
         "./node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
       ],
       "./node_modules/@types/react/index.d.ts": [
-        "./node_modules/csstype/index.d.ts",
+        "./node_modules/@types/react/node_modules/csstype/index.d.ts",
         "./node_modules/@types/prop-types/index.d.ts",
         "./node_modules/@types/react/global.d.ts"
       ],
@@ -4561,7 +4561,7 @@
         "./node_modules/@types/react/index.d.ts"
       ],
       "./node_modules/typestyle/lib/types.d.ts": [
-        "./node_modules/typestyle/node_modules/csstype/index.d.ts"
+        "./node_modules/csstype/index.d.ts"
       ],
       "./node_modules/@jupyterlab/ui-components/lib/style/icon.d.ts": [
         "./node_modules/typestyle/lib/types.d.ts"
@@ -4716,7 +4716,7 @@
       "./node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts",
       "./node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts",
       "./node_modules/@types/react/global.d.ts",
-      "./node_modules/csstype/index.d.ts",
+      "./node_modules/@types/react/node_modules/csstype/index.d.ts",
       "./node_modules/@types/prop-types/index.d.ts",
       "./node_modules/@types/react/index.d.ts",
       "./node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts",
@@ -4729,7 +4729,7 @@
       "./node_modules/@jupyterlab/ui-components/lib/icon/widgets/menusvg.d.ts",
       "./node_modules/@jupyterlab/ui-components/lib/icon/widgets/tabbarsvg.d.ts",
       "./node_modules/@jupyterlab/ui-components/lib/icon/widgets/index.d.ts",
-      "./node_modules/typestyle/node_modules/csstype/index.d.ts",
+      "./node_modules/csstype/index.d.ts",
       "./node_modules/typestyle/lib/types.d.ts",
       "./node_modules/@jupyterlab/ui-components/lib/style/icon.d.ts",
       "./node_modules/@jupyterlab/ui-components/lib/style/index.d.ts",
